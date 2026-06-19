@@ -44,7 +44,24 @@ Passionate about creating modern and user-friendly web applications using Java a
   &nbsp;
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="45" height="45"/>
+  </a>;
+
+  <!-- NODE.JS -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="45" height="45"/>
   </a>
+  &nbsp;
+
+  <!-- MYSQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45"/>
+  </a>
+  &nbsp;
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>
+  </a>
+</p>
   &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>
